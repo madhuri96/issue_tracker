@@ -2,8 +2,8 @@
     nodejs + ejs  application to track issues/bugs for a project.
   
 # Hosted URL
-   
-   
+    https://issue-tracker-web.herokuapp.com/
+      
 ## Features :
 
 ### 1. Build a neat UI
