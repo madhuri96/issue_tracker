@@ -2,7 +2,7 @@
     nodejs + ejs  application to track issues/bugs for a project.
   
 # Hosted URL
-    https://issue-tracker-web.herokuapp.com/
+    https://issue-tracker-app.onrender.com
       
 ## Features :
 
